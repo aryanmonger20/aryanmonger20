@@ -19,11 +19,12 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/aryan gupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aryan gupta" height="30" width="40" /></a>
-<a href="https://fb.com/aryan gupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aryan gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/aryanmonger20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aryanmonger20" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aryanmonger_20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aryanmonger_20" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@aryangupta007yo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@aryangupta007yo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryan-gupta-0b0286197/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aryan gupta" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100006797169220" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aryan gupta" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
