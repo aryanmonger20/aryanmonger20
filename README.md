@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aryanmonger20](https://github.com/aryanmonger20)
+- 👨‍💻 Check out All about me at [https://myportfolioaryan.netlify.app/]
 
 - 💬 Ask me about **React**
 
