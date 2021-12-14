@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I am Smart and funny ;)**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmonger20&layout=compact" alt="aryanmonger20" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmonger20&layout=compact" alt="aryanmonger20" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanmonger20&show_icons=true" alt="aryanmonger20" /></p>
 
