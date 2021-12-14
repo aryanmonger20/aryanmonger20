@@ -17,7 +17,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aryanmonger20&show_icons=true" alt="aryanmonger20" /></p>
 
-<p align="center">
+<p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://instagram.com/aryanmonger20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aryanmonger20" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aryanmonger_20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aryanmonger_20" height="30" width="40" /></a>
