@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanmonger20" alt="aryanmonger20" /> </p>
+
 - 🌱 Currently Working at **Deloitte**
 
 - 🌱 Former SDE INTERN AT **AMAZON**
