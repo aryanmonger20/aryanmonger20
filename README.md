@@ -2,12 +2,13 @@
 <h3 align="center">A passionate Full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanmonger20" alt="aryanmonger20" /> </p>
+- 🌱 Currently Working at **Deloitte**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 Former SDE INTERN AT **AMAZON**
 
 - 👨‍💻 Check out All about me at [https://myportfolioaryan.netlify.app/]
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React , Java , SQL , JavaScript , C++**
 
 - 📫 How to reach me **aryangupta007yo@gmail.com**
 
