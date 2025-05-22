@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanmonger20" alt="aryanmonger20" /> </p>
 
-- 🌱 Currently Working at **Deloitte**
+- 🌱 Currently Working at **IBM ISL**
 
-- 🌱 Former SDE INTERN AT **AMAZON**
+- 🌱 Former SDE INTERN AT **AMAZON** , ANALSYT at **DELOITTE**
 
 - 👨‍💻 Check out All about me at [https://myportfolioaryan.netlify.app/]
 
-- 💬 Ask me about **React , Java , SQL , JavaScript , C++**
+- 💬 Ask me about **React , Spring , SQL , JavaScript , C++**
 
 - 📫 How to reach me **aryangupta007yo@gmail.com**
 
